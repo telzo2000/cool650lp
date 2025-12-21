@@ -36,6 +36,7 @@ cool650lp change keymap by [vial](https://vial.rocks/).
 ![](img/img00009.jpg)
 ![](img/img00010.jpg)
 
+[RP2040-Zeroのハンダ付け動画](https://youtu.be/FV4INvCWlU0)
 <br>
 
 3 Insert the switch socket into the top plate and then the PCB.
