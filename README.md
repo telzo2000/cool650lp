@@ -22,7 +22,12 @@ cool650lp change keymap by [vial](https://vial.rocks/).
 
 <br>
 
-## build
+## buildguide
+
+https://github.com/telzo2000/cool650lp/blob/main/buildguide_for_cool650lp.md
+
+
+<b>Main steps</b>
 
 1 Soldering switchsocket.
 ![](img/img00007.jpg)
