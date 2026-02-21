@@ -61,7 +61,7 @@ https://github.com/telzo2000/cool650lp/blob/main/buildguide_for_cool650lp.md
 | No. | Patrs | Quantity | remarks | Suppliers | Cost |
 |--|--|--|--|--|--|
 |番号|名前|数|備考|調達先|参考価格（送料込）|<br>
-|1|PCB|3||[JLCPCB](https://jlcpcb.com)||<br>
+|1|PCB|1||[JLCPCB](https://jlcpcb.com)||<br>
 |2|Top plate|2|3D Print|||
 |3|Bottom case|2|3D Print|||
 |6|RP2040-Zero|1|MCU Board|[Talp keyboard](https://shop.talpkeyboard.com/products/rp2040-zero-usb-c-compatible)[Waveshare](https://www.waveshare.com/rp2040-zero.htm)|400円ぐらい|
